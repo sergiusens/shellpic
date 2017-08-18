@@ -1,3 +1,5 @@
+[![Snap Status](https://build.snapcraft.io/badge/sergiusens/shellpic.svg)](https://build.snapcraft.io/user/sergiusens/shellpic)
+
 Shellpic
 ========
 -ASCII-art is so 2013.
